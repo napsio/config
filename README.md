@@ -32,7 +32,7 @@ config.get('extension2:default.config', 'TEST');
 config.get([namespace:][paths.]file.key, default);
 ```
 
-For the upper examples:
+For the above examples:
 
 
 | Namespace  | Paths         | File    | Key                       | Default |
